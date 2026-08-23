@@ -1,0 +1,9 @@
+ABC Technologies Pricing Plans
+
+Basic Plan : $20/month
+
+Premium Plan : $50/month
+
+Enterprise Plan : Custom Pricing
+
+All plans include cloud access and email support.

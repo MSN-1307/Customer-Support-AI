@@ -1,0 +1,6 @@
+If the application crashes while uploading files:
+
+1. Clear the application cache.
+2. Restart the application.
+3. Reinstall the software if necessary.
+4. Contact technical support if the issue persists.

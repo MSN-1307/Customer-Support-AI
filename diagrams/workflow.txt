@@ -1,0 +1,21 @@
+START
+  ↓
+Intent Classifier
+  ↓
+────────────────────────────
+| sales | tech | billing | account | memory |
+────────────────────────────
+  ↓
+Memory → END
+
+Others →
+  ↓
+RAG Agent
+  ↓
+Approval Node
+  ↓
+Human Approval (YES/NO)
+  ↓
+Supervisor Node
+  ↓
+END

@@ -1,0 +1,7 @@
+Refund requests require approval from a human supervisor.
+
+Subscription cancellation requests require supervisor approval.
+
+Account closure requests require supervisor approval.
+
+Compensation requests and escalation to management cannot be automatically approved.

@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ChromaDB generated vector store
+vectorstore/
+
+# Environment variables / secrets
+.env
+
+# SQLite temporary files
+*.db-journal

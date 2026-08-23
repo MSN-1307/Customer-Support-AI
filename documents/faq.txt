@@ -1,0 +1,7 @@
+Password reset can be performed from:
+
+Settings > Security > Reset Password
+
+Profile updates can be performed from:
+
+Settings > Account > Profile
